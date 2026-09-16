@@ -1,11 +1,12 @@
-<div align="center">
+# AI Studio Next.js Starter
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This is a testing starter template optimized for Google AI Studio. The `inspirations/` folder is used to drop in reference code or designs to reduce AI context overhead.
 
-  <h1>Built with AI Studio</h2>
+**To use this template in AI Studio, copy and paste the prompt below:**
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+***
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+Please clone the repository `[INSERT_YOUR_GITHUB_REPO_URL_HERE]`.
+Once cloned, run `rm -rf .git` in the root directory so we start with a brand new git repository. 
+Review the folder structure, read the rules in `AGENTS.md`, and let me know when you are ready to begin coding.
+***

@@ -1,0 +1,6 @@
+{
+  "name": "Next.js 16 Starter",
+  "description": "Next.js 16 App Router starter template optimized for Vibe Coding and AI-native development in Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
